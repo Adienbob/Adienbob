@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hussien Walid
 - 👀 I’m interested in being Front-end developer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me ...
-- 😄 Pronouns: Adienbob@Yahoo.com
+- 😄 Pronouns: hussienwalid125@gmail.com
 - ⚡ Fun fact: Programming is enjoyable 
 
 <!---
